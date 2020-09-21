@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/turtleLove/static/css/main.ed42290e.chunk.css",
+    "main.js": "/turtleLove/static/js/main.8c9bfb66.chunk.js",
+    "main.js.map": "/turtleLove/static/js/main.8c9bfb66.chunk.js.map",
+    "runtime-main.js": "/turtleLove/static/js/runtime-main.18076934.js",
+    "runtime-main.js.map": "/turtleLove/static/js/runtime-main.18076934.js.map",
+    "static/js/2.76204d56.chunk.js": "/turtleLove/static/js/2.76204d56.chunk.js",
+    "static/js/2.76204d56.chunk.js.map": "/turtleLove/static/js/2.76204d56.chunk.js.map",
+    "index.html": "/turtleLove/index.html",
+    "precache-manifest.1168d7ee5c7688d5068b66161a7c3e9a.js": "/turtleLove/precache-manifest.1168d7ee5c7688d5068b66161a7c3e9a.js",
+    "service-worker.js": "/turtleLove/service-worker.js",
+    "static/css/main.ed42290e.chunk.css.map": "/turtleLove/static/css/main.ed42290e.chunk.css.map",
+    "static/js/2.76204d56.chunk.js.LICENSE.txt": "/turtleLove/static/js/2.76204d56.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18076934.js",
+    "static/js/2.76204d56.chunk.js",
+    "static/css/main.ed42290e.chunk.css",
+    "static/js/main.8c9bfb66.chunk.js"
+  ]
+}
