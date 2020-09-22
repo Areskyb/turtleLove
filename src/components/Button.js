@@ -36,7 +36,10 @@ function Button({ setTimes, times }) {
       <ButtonBackground onClick={() => triggerTurtleSound()}>
         <ButtonText>🐢 👉👌 🐢</ButtonText>
         {disabled ? (
-          <img src="https://i.makeagif.com/media/2-15-2017/4CwzYn.gif" />
+          <img
+            style={{ width: 150, height: 150 }}
+            src="https://i.makeagif.com/media/2-15-2017/4CwzYn.gif"
+          />
         ) : null}
       </ButtonBackground>
     </div>
