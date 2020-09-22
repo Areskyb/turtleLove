@@ -37,7 +37,7 @@ function Button({ setTimes, times }) {
         <ButtonText>🐢 👉👌 🐢</ButtonText>
         {disabled ? (
           <img
-            style={{ width: 150, height: 150 }}
+            style={{ borderRadius: 10, width: 150, height: 150 }}
             src="https://i.makeagif.com/media/2-15-2017/4CwzYn.gif"
           />
         ) : null}
